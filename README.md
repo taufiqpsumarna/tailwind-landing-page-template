@@ -1,78 +1,50 @@
-# Free Tailwind landing page template
+<a href="http://themes.3rdwavemedia.com/website-templates/appkit-landing-free-bootstrap-theme-for-developers-and-startups/" target="_blank"><img src="http://themes.3rdwavemedia.com/wp-content/uploads/2016/01/Free-Bootstrap-Theme-for-Developers-Appkit-landing.png" alt="Free Bootstrap Theme for Developers and Startups" /></a>
 
-![Simple TailwindCSS template preview](https://user-images.githubusercontent.com/2683512/96160974-f93aa780-0f16-11eb-9ce4-81d94b216be6.png)
+##Theme Details & Demo
 
-**Simple Light** is a free landing page template built on top of **TailwindCSS** and fully coded in **React**. Simple light is designed to provide all the basic components a developer need to create a landing page for SaaS products, online services, and more. 
-Use it for whatever you want, and be sure to reach us out on Twitter if you build anything cool/useful with it.
-Created and maintained with ❤️ by [Cruip.com](https://cruip.com/).
+**Demo:** http://themes.3rdwavemedia.com/demo/appkit-landing/
 
-## Live demo
+AppKit Landing is a free Bootstrap theme designed to help developers & startups to promote their products and services. The **source LESS files** are included so it�s very easy to customise the template to suite your needs.
 
-Check the live demo here 👉️ [https://simple.cruip.com/](https://simple.cruip.com/)
+We will update and improve the template based on user feedback so get in touch or leave a comment if you have any questions or suggestions. If you like the template and find it useful, **we'd appreciate your help in spreading the word on your networks**. You can also [follow us on Twitter](https://twitter.com/3rdwave_themes) to be the first to know when we release new templates and other freebies
 
-## Simple Pro
+##Author & License
 
-[![Simple Pro](https://user-images.githubusercontent.com/2683512/151178282-fd81b300-349a-42c3-a30a-f70f6e711e74.png)](https://cruip.com/)
+This Bootstrap template is made by UX/UI designer [Xiaoying Riley](https://twitter.com/3rdwave_themes) for developers and is 100% FREE under the [Creative Commons Attribution 3.0 License (CC BY 3.0)](http://creativecommons.org/licenses/by/3.0/)
 
-## Design files
+If you'd like to **use the template without the attribution**, you can check out **other license options** via the [theme website](http://themes.3rdwavemedia.com/website-templates/appkit-landing-free-bootstrap-theme-for-developers-and-startups/)
 
-If you need the design files, you can download them from Figma's Community 👉 https://bit.ly/3HOZMpf
+####Follow Xiaoying
 
-## Table of contents
+[Twitter](https://twitter.com/3rdwave_themes)
 
-* [Usage](#usage)
-  * [Project setup](#project-setup)
-  * [Compiles and hot-reloads for development](#compiles-and-hot-reloads-for-development)
-  * [Compiles and minifies for production](#compiles-and-minifies-for-production)
-  * [Customize configuration](#customize-configuration)
-* [Support notes](#support-notes)            
-* [Credits](#credits)
-* [Terms and License](#terms-and-license)
-* [About Us](#about-us)
-* [Stay in the loop](#stay-in-the-loop)
+[Facebook](https://www.facebook.com/3rdwavethemes/)
 
-## Usage
+[Dribbble](https://dribbble.com/Xiaoying)
 
-This project was bootstrapped with [Vite](https://vitejs.dev/).
+[Linkedin](https://uk.linkedin.com/in/xiaoying)
 
-### Project setup
-```
-npm install
-```
 
-#### Compiles and hot-reloads for development
-```
-npm run dev
-```
+##Latest Version
+**v1.2** - 28 Dec 2016
 
-#### Compiles and minifies for production
-```
-npm run build
-```
+[Changelog](http://themes.3rdwavemedia.com/website-templates/appkit-landing-free-bootstrap-theme-for-developers-and-startups/?target=changelog)
 
-#### Customize configuration
-See [Configuration Reference](https://vitejs.dev/guide/).
 
-### Support notes
-We are shipping our templates with a very basic React configuration to let you quickly get into the development process, but we don't discourage you from using any other configuration or framework built on the top of React. So, please note that any request dealing with React (e.g. extra features, customisations, et cetera) is to be considered out of the support scope.
+##Features
 
-For more information about what support covers, please see our (FAQs)[https://cruip.com/faq/].
+-  Fully Responsive
+-  HTML5 + CSS3
+-  Built on Bootstrap 3
+-  6 Colour Schemes
+-  600+ FontAwesome icons
+-  **LESS** files included
+-  Compatible with all modern browsers
 
-## Credits
-
-- [Nucleo](https://nucleoapp.com/)
-
-## Terms and License
-
-- Released under the [GPL](https://www.gnu.org/licenses/gpl-3.0.html).
-- Copyright 2020 [Cruip](https://cruip.com/).
-- Use it for personal and commercial projects, but please don’t republish, redistribute, or resell the template.
-- Attribution is not required, although it is really appreciated.
-
-## About Us
-
-We're an Italian developer/designer duo creating high-quality design/code resources for developers, makers, and startups.
-
-## Stay in the loop
-
-If you would like to know when we release new resources, you can follow us on [Twitter](https://twitter.com/Cruip_com), or you can subscribe to our monthly [newsletter](https://cruip.com/#subscribe).
+##Credits
+- [Bootstrap](http://getbootstrap.com/)
+- [FontAwesome](http://fortawesome.github.io/Font-Awesome/)
+- [Google Fonts](https://fonts.google.com/)
+- [Illustration:Minimal Office Illustrations](http://www.sketchappsources.com/free-source/1388-minimal-office-desk-illustrations-icons-sketch-freebie-resource.html)
+- [jQuery ScrollTo](http://flesler.blogspot.co.uk/2007/10/jqueryscrollto.html)
+- [Product Screenshots:AppKit Admin Theme](https://wrapbootstrap.com/theme/admin-appkit-admin-theme-angularjs-WB051SCJ1?ref=3wm)
